@@ -1,2 +1,2 @@
-# Curso---Grid-Layout---ALURA
-Projeto de Pagina utilizando grid layout 
+# Curso Grid-Layout Alura
+Projeto de Pagina utilizando grid layout em toda estrutura.
